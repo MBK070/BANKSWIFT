@@ -1,4 +1,4 @@
-Built using:
+A webpage for banking purposes, built using;
 
 1. HTML5
 2. CSS3
