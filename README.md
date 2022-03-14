@@ -1,3 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5fa838d6-faae-42ef-83cb-2f716a7bda86/deploy-status)](https://app.netlify.com/sites/bankswift/deploys)
+
+Access to Live-site: www.bankswift.netlify.app
+
+
 A webpage for banking purposes, built using;
 
 1. HTML5
@@ -21,4 +26,4 @@ A webpage for banking purposes, built using;
 
 Acknowledgments:
 
-Guidance provided by "The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann"
+Guidance taken from "The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann"
